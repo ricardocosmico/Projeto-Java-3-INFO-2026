@@ -26,7 +26,7 @@ public Funcionario(String cargo, String nome, String cpf, String numero, String 
     this.cargo = cargo;
     this.nome = nome;
     this.cpf = cpf;
-    this.numero = cpf;
+    this.numero = numero;
     this.endereco = endereco;
     this.salario = salario;
     this.dataadmissao = dataadmissao;
